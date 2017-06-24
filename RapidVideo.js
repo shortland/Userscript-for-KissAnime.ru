@@ -8,6 +8,8 @@
 // @grant        none
 // ==/UserScript==
 
+// note: autoplay works when directly visiting the site. But does not work when visiting from KissAnime.ru, probably some html thing.
+
 (function() {
     'use strict';
 /*
